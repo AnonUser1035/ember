@@ -1,0 +1,8 @@
+.build/
+dist/
+Resources/AppIcon.iconset/
+Resources/*.icns
+Resources/MenuBar/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+.DS_Store
